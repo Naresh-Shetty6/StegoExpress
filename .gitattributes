@@ -1,4 +1,0 @@
-*.html linguist-vendored
-docs/*.tex linguist-vendored
-report/*.tex linguist-vendored
-bigfile.tex linguist-vendored
