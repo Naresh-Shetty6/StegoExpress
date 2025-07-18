@@ -103,15 +103,15 @@ pip install -r requirements.txt
 - **Status:** Completed
 
 ### Developers
+| Name             | Email                        |
+|------------------|------------------------------|
+| Naresh G         | gnaresh3003@gmail.com        |
 
-### Company
-- **Name:** Supraja Technologies
-- **Email:** contact@suprajatechnologies.com
 
 ---
 
 ## License
-This project is for **educational and research purposes only**. For commercial use, please contact the developers or Supraja Technologies. See [LICENSE](./LICENSE) for details.
+This project is for **educational and research purposes only**. For commercial use, please contact the developer . See [LICENSE](./LICENSE) for details.
 
 ---
 
